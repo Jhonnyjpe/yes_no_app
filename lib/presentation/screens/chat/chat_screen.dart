@@ -41,7 +41,7 @@ class _ChatView extends StatelessWidget {
                 },
               ),
             ),
-            Text('Mundo'),
+            Text('Espacio para el input del teclado'),
           ],
         ),
       ),
